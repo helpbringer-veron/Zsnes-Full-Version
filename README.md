@@ -238,3 +238,6 @@ This repository serves as the official landing page for ZSNES. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ZSNES today!**
+
+---
+**Last updated:** 2026-09-12 03:07:12 UTC
