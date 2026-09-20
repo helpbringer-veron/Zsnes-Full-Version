@@ -240,4 +240,4 @@ This repository serves as the official landing page for ZSNES. The software is d
 **Get the most recent version of ZSNES today!**
 
 ---
-**Last updated:** 2026-09-20 14:28:56 UTC
+**Last updated:** 2026-09-20 17:56:24 UTC
